@@ -27,7 +27,7 @@ pub fn calibration_values(dados:&str) -> usize {
 
 
 #[test]
-fn exemplo_um() {
+fn exemplo_desafio_um() {
     let soma = calibration_values("1abc2
 pqr3stu8vwx
 a1b2c3d4e5f
